@@ -1,2 +1,2 @@
-# zo__rs__k
+# zo*rs*k
 Zork clone writtten in Rust.
